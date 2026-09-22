@@ -81,7 +81,8 @@ python demo\_gif.py
 
 ### 演示 GIF（自动通关第 1 关）
 
-![Uploading demo.gif…]()
+<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/86c3c5eb-a9aa-475d-b44b-4a0f60c489d7" />
+
 
 
 ### 开始界面
