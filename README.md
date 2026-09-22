@@ -81,7 +81,8 @@ python demo\_gif.py
 
 ### 演示 GIF（自动通关第 1 关）
 
-![演示](screens/demo.gif)
+![Uploading demo.gif…]()
+
 
 ### 开始界面
 
