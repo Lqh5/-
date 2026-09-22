@@ -81,7 +81,7 @@ python demo\_gif.py
 
 ### 演示 GIF（自动通关第 1 关）
 
-<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/86c3c5eb-a9aa-475d-b44b-4a0f60c489d7" />
+![演示](demo.gif)
 
 
 
@@ -89,31 +89,31 @@ python demo\_gif.py
 
 
 
-![开始界面](screens/01_start.png)
+![开始界面](01_start.png)
 
 ### 游戏界面（第 1 关）
 
 
 
-![第 1 关](screens/02_level1.png)
+![第 1 关](02_level1.png)
 
 ### 碰撞反馈（点击被阻挡的箭头）
 
 
 
-![碰撞反馈](screens/05_collision.png)
+![碰撞反馈](05_collision.png)
 
 ### 通关界面
 
 
 
-![通关界面](screens/06_win.png)
+![通关界面](06_win.png)
 
 ### 失败界面
 
 
 
-![失败界面](screens/07_lose.png)
+![失败界面](07_lose.png)
 
 ## 项目结构
 
