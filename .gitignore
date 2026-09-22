@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 临时文件
+*.log
+.pytest_cache/
+
+# 操作系统
+Thumbs.db
+Desktop.ini
